@@ -7,3 +7,5 @@ duration: 4weeks
 mentor: neela santosh 
 #task description : i have created a AR/VR application which is 3d based. and i took the help of ai took make it better for users. its name is immersive AR/VR. which is realistic,flat ui,dark mode,gesture control,spacial layout and intuitive design
 ## output: 
+
+![Image](https://github.com/user-attachments/assets/8061ec15-203e-47ac-a74e-c47dd795e55a)
